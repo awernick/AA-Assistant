@@ -1,0 +1,4 @@
+[submodule "AAattendant"]
+	path = AAattendant
+	url = https://github.com/dateutli/AAattendant.git
+	branch = master
