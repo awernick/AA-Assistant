@@ -2,3 +2,7 @@
 	path = AAattendant
 	url = https://github.com/dateutli/AAattendant.git
 	branch = master
+[submodule "AA-Backend"]
+	path = AA-Backend
+	url = https://github.com/awernick/AA-Backend.git
+	branch = master
